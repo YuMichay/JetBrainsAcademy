@@ -78,3 +78,27 @@ div {
     backface-visibility: hidden;
     transform: rotateY(180deg);
 }
+@media (max-width: 768px) {
+    html {
+    background-image: url("https://image.freepik.com/free-vector/abstract-blur-colorful-background-blurred-background_132079-367.jpg");
+    background-size: 100%;
+    }
+    body {
+    padding: 10% 20%;
+    margin: 10% 40%;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 30px;
+    }
+}
+@media (max-width: 320px) {
+    html {
+    background-image: url("https://image.freepik.com/free-vector/abstract-blur-colorful-background-blurred-background_132079-367.jpg");
+    background-size: 100%;
+    }
+    body {
+    padding: 10% 20%;
+    margin: 10% 40%;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 30px;
+    }    
+}
