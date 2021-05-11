@@ -1,5 +1,8 @@
 html {
-    background-image: url("https://image.freepik.com/free-vector/abstract-blur-colorful-background-blurred-background_132079-367.jpg");
+    background-image: url ('https://image.freepik.com/free-vector/abstract-blur-colorful-background-blurred-background_132079-367.jpg');
+    -webkit-background-image: url ('https://image.freepik.com/free-vector/abstract-blur-colorful-background-blurred-background_132079-367.jpg');
+    -moz-background-image: url ('https://image.freepik.com/free-vector/abstract-blur-colorful-background-blurred-background_132079-367.jpg');
+    -ms-background-image: url ('https://image.freepik.com/free-vector/abstract-blur-colorful-background-blurred-background_132079-367.jpg');
     background-size: 100%;
     }
 body {
