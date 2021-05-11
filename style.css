@@ -1,5 +1,5 @@
 html {
-    background-image: url("../src/img.png");
+    background-image: url("../src/img.png") url('https://image.freepik.com/free-vector/abstract-blur-colorful-background-blurred-background_132079-367.jpg');
     background-size: 100%;
     }
 body {
